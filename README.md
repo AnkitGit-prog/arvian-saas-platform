@@ -194,5 +194,5 @@ The application will be running on `http://localhost:3000`.
   Developed and managed for <b>Arvion</b>.
   Here is a live demo <b>https://arvian-saas-platform.vercel.app/</b> 
 </p>  
-<p>Devloped by Ankit</p>
+<p>Devloped by Ankit</p> 
  
